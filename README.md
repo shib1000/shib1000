@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shibashis. I am a software developer with more than 15 years experience. 
+- 👋 Hi, I’m Shibashis. I am a software developer with more than 15 of years experience. 
 - 👀 I’m interested in learning :) . My interests are varied, I love learning in each of the areas. Some of those areas
   - Java
   - Golang

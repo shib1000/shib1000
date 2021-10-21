@@ -1,13 +1,14 @@
 - 👋 Hi, I’m Shibashis. I am a software developer with more than 15 of years experience. 
-- 👀 I’m interested in learning :) . My interests are varied, I love learning in each of the areas. Some of those areas
+- 👀 I’m interested in learning :) 
   - Java
   - Golang
   - Kubernetes
   - Service Mesh
   - Observability
-- 🌱 I’m currently learning :: The list is long
+- 🌱 I’m currently learning 
   - Helm, kubernetes and the ecosystem
   - Service diagnostics for tenants of such platforms
+  - Observability and AIOps
 - 💞️ I’m looking to collaborate on 
   - Service Diagnostic & Observability
 - 📫 How to reach me 
